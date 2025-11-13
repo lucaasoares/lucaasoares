@@ -26,8 +26,8 @@
 ### 💼 Sobre mim
 
 - 🎓 Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e boas práticas.
-- 🔭 Atualmente explorando as áreas **Dev Back End** e **I.A**.
-- 🌱 Interesse em **Hacker Ético** com **Java** e **Spring Boot**.
+- 🔭 Atualmente explorando as áreas **Machine Learning** e **CyberSecurity**.
+- 🌱 Interesse em **Desenvolvimento de Software e Aplicativos** com **Java** e **Spring Boot**.
 - 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lucas-soares-16a643186)
 
 ---
