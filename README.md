@@ -26,9 +26,8 @@
 ### 💼 Sobre mim
 
 - 🎓 Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e boas práticas.
-- 🔭 Atualmente explorando o ecossistema **Spring Boot** e **Docker**.
-- 🌱 Interesse em **Data Science** com **Python** e **Orange Data Mining**.
-- 💬 Curioso por **front-end e web design**, sem medo de brincar com **UI/UX**.
+- 🔭 Atualmente explorando as áreas **Dev Back End** e **I.A**.
+- 🌱 Interesse em **Hacker Ético** com **Java** e **Spring Boot**.
 - 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lucas-soares-16a643186)
 
 ---
@@ -49,4 +48,4 @@
 
 ---
 
-<p align="center">⚡ Feito com ❤️, curiosidade e muito café ⚡</p>
+<p align="center">⚡ Feito por Lucas Soares. ⚡</p>
